@@ -1,5 +1,11 @@
 # xstate
 
+## 5.18.0
+
+### Minor Changes
+
+- [#5042](https://github.com/statelyai/xstate/pull/5042) [`54c9d9e6a4`](https://github.com/statelyai/xstate/commit/54c9d9e6a49ab8af8b58d700ed967536f9c06fb4) Thanks [@boneskull](https://github.com/boneskull)! - `waitFor()` now accepts a `{signal: AbortSignal}` in `WaitForOptions`
+
 ## 5.17.4
 
 ### Patch Changes
